@@ -1,22 +1,30 @@
-
 body{
-    background-color:rgb(241, 241, 207);
-    margin: 1%;
-    padding: 2%;
+     background-color:rgb(241, 241, 207);
+     margin: 1%;
+     padding: 2%;
+}
+hr{
+    border: 0;
+    height: 1px;
+    background-color: beige;
+    margin: 12px 0;
 }
 h1{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 300%;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 300%;
+}
+p{
+     font-family: 'Times New Roman', Times, serif;
+     color: black;
 }
 .box2{
-    background-color: white;
+     background-color: white;
 }
 .box{
     background-color:rgb(255, 255, 255);
-    border-radius: 6px;
-    border: 2px solid;
-    padding: 1%;
-    margin: 1% ;
- font-family: 'Times New Roman', Times, serif;
+     border: 1px solid #e0e0e0;     
+     border-radius: 8px;            
+     padding: 1%;
+     margin: 1% ;
+     font-family: 'Times New Roman', Times, serif;
 }
-
