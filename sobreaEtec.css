@@ -1,17 +1,22 @@
+
+body{
+    background-color:rgb(241, 241, 207);
+    margin: 1%;
+    padding: 2%;
+}
 h1{
     font-family: 'Times New Roman', Times, serif;
+    font-size: 300%;
 }
-p{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: large;
+.box2{
+    background-color: white;
 }
-img{
-    width: 10%;
+.box{
+    background-color:rgb(255, 255, 255);
+    border-radius: 6px;
+    border: 2px solid;
+    padding: 1%;
+    margin: 1% ;
+ font-family: 'Times New Roman', Times, serif;
 }
-strong{
-    font-size: 200%;
-}
-footer{
-    color: white;
-    background-color:black  
-}
+
