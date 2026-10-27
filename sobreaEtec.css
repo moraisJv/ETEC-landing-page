@@ -1,8 +1,19 @@
 body{
-     background-color:rgb(241, 241, 207);
+     background-color:rgb(245, 245, 229);
      margin: 1%;
      padding: 2%;
 }
+.banner-topo {
+  
+  width: 95%;                  
+  max-width: 1100px;          
+  height: 200px;               
+  margin: 20px auto;           
+}
+img{
+ align-items: center;
+}
+
 hr{
     border: 0;
     height: 1px;
@@ -14,11 +25,18 @@ h1{
      font-size: 300%;
 }
 p{
-     font-family: 'Times New Roman', Times, serif;
+     font-family: Georgia, 'Times New Roman', Times, serif;
      color: black;
+     font-size: large;
 }
 .box2{
      background-color: white;
+      border: 1px solid #e0e0e0;     
+     border-radius: 8px;            
+     padding: 1%;
+     margin: 1% ;
+     font-size: 300%;
+      align-items: center;  
 }
 .box{
     background-color:rgb(255, 255, 255);
@@ -27,4 +45,8 @@ p{
      padding: 1%;
      margin: 1% ;
      font-family: 'Times New Roman', Times, serif;
+     align-items: center;  
+}
+a{
+align-items: center;
 }
