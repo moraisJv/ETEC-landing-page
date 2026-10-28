@@ -15,3 +15,4 @@ Uma página web única desenvolvida em HTML puro que apresenta informações sob
 
 Projeto acadêmico desenvolvido para a ETEC.
 <img width="951" height="556" alt="image" src="https://github.com/user-attachments/assets/1a151c1f-cdf4-46c7-9e23-6c521d45d3da" />
+<img width="1248" height="490" alt="image" src="https://github.com/user-attachments/assets/c31f6b67-bba7-4a11-9bfd-b02f9be7937c" />
