@@ -34,6 +34,11 @@ nav{
      color: black;
      font-size: large;
 }
+ol{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     color: black;
+     font-size: large;
+}
 .box2{
      background-color: white;
       border: 1px solid #e0e0e0;     
