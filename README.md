@@ -18,7 +18,7 @@ Projeto acadêmico desenvolvido para a ETEC.
 <br>
 (parte superior da página)
 <hr>
-<img width="1255" height="559" alt="image" src="https://github.com/user-attachments/assets/9051072c-809c-414b-971d-b432d89643db" />
+<img width="1233" height="541" alt="image" src="https://github.com/user-attachments/assets/4ff6af3c-ef24-4268-8643-b5b41a078f02" />
 (parte cenntral da página)
 <hr>
 <img width="1248" height="490" alt="image" src="https://github.com/user-attachments/assets/c31f6b67-bba7-4a11-9bfd-b02f9be7937c" />
