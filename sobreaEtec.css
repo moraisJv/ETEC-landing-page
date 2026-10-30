@@ -75,3 +75,9 @@ body {
   background-color: #8B0000;
   line-height: 0;
 }
+.footer-img {
+  width: 100%;      
+  height: auto;      
+  display: block; 
+  border: none;
+}
