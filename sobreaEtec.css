@@ -70,3 +70,8 @@ body {
 .conteudo-principal {
   flex: 1;
 }
+.site-footer {
+  width: 100%;
+  background-color: #8B0000;
+  line-height: 0;
+}
